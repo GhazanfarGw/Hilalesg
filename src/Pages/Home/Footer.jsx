@@ -95,12 +95,14 @@ const Footer = () => {
                         
                     </div>
                 </div>
-                <div className='justify-center mx-auto md:text-center px-5 flex gap-4'>
+                <div className='justify-center mx-auto md:text-center px-5 md:flex gap-4'>
                     <div className='border-b border-[#0C6E33] py-3'/>
                     <p className='text-sm text-[#C3CDD3] md:pt-5 pt-5'>
                         Hilal ESG Holdings Ltd &copy; 2024. All right reserved. 
                     </p>
-                    <a className='text-sm text-[#C3CDD3] md:pt-5 pt-5 underline' href="./privacy-policy">Privacy Policy</a>
+                    <a className='text-sm text-[#C3CDD3] md:pt-5 pt-5 underline justify-center text-center mx-auto' href="./privacy-policy">
+                        <p>Privacy Policy</p>
+                    </a>
                 </div>
             </div>
         </div>
