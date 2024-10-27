@@ -18,7 +18,7 @@ const Office = () => {
                     <div className='second py-6 px-3 border border-[#00713B] md:mt-0 mt-5'
                     >
                         <img className={`transition-transform transform hover:scale-105 duration-300 cursor-pointer hidden md:block lg:block`} src='./Development BUrj.jpeg' alt='logo'/>
-                        <img className={`transition-transform transform hover:scale-105 duration-300 cursor-pointer block md:hidden lg:hidden`} src='./dubai-uae.webp' alt='logo'/>
+                        <img className={`transition-transform transform hover:scale-105 duration-300 cursor-pointer block md:hidden lg:hidden`} src='./145.jpg' alt='logo'/>
                         <div 
                             className='duration-300 text-center mx-auto'
                         >
