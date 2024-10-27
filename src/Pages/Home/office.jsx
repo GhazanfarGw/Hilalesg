@@ -7,15 +7,15 @@ const Office = () => {
         <div id='office' className='py-2 justify-center mx-auto md:px-10 px-5 max-w-screen-xl'>
             <div className='mx-auto justify-center'>
                 <div className='first items-center py-10 mx-auto'>
-                    <p className='text-[#444444] md:text-4xl text-3xl pt-3 font-light'>
+                    <p className='text-[#444444] md:text-4xl text-3xl font-light'>
                         Our Office
                     </p>
-                    <p className='md:text-lg text-sm md:pt-8 pt-5 text-[#777]'>
+                    <p className='md:text-lg text-sm md:pt-8 pt-3 text-[#777]'>
                         Hilal ESG Holdings Ltd operates in multiple countries.
                     </p>
                 </div>
                 <div className='lg:grid lg:grid-cols-5 mx-auto justify-center md:gap-5 md:pt-10'>
-                    <div className='second py-6 px-3 border border-[#00713B] md:mt-0 mt-5'
+                    <div className='second py-6 px-3 border border-[#00713B] md:mt-0'
                     >
                         <img className={`transition-transform transform hover:scale-105 duration-300 cursor-pointer hidden md:block lg:block`} src='./Development BUrj.jpeg' alt='logo'/>
                         <img className={`transition-transform transform hover:scale-105 duration-300 cursor-pointer block md:hidden lg:hidden`} src='./145.jpg' alt='logo'/>
