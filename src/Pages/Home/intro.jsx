@@ -30,7 +30,7 @@ function Description() {
   return (
     <>
     <div className="max-w-screen-xl md:px-10 px-5 mx-auto">
-      <div className="md:pt-40 pt-32">
+      <div className="md:pt-40 pt-16">
         <div className="first">
           <h1 className="md:text-4xl font-light text-2xl text-[#444444]">
             What is the Hilal ESG?
