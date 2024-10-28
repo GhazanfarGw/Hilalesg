@@ -24,7 +24,6 @@
 // export default intro
 
 import React from "react";
-import Countdown from "./countdown";
 
 function Description() {
   return (
@@ -33,7 +32,7 @@ function Description() {
       <div className="md:pt-40 pt-16">
         <div className="first">
           <h1 className="md:text-4xl font-light text-2xl text-[#444444]">
-            What is the Hilal ESG?
+            What is the Hilal ESG Holdings Ltd?
           </h1>
         </div>
 
