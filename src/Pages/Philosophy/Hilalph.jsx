@@ -3,7 +3,7 @@ import React from "react";
 function Description() {
   return (
     <>
-    <div className="mx-auto justify-between pt-28 md:pt-52 max-w-screen-xl md:px-10 px-5 pb-32">
+    <div className="mx-auto justify-between pt-28 md:pt-52 max-w-screen-xl md:px-10 px-5 pb-16">
       <div className="">
         <div className="max-w-screen-lg pt-5 md:pt-8 text-[#777] third">
           <p className="md:text-lg text-sm first-letter:text-5xl">
@@ -26,9 +26,6 @@ function Description() {
             <br />
             <br />
             We remain resolutely focused on delivering results. With a unique blend of global insight and an acute understanding of diverse legal and economic landscapes, we are poised to identify the optimal financial and regulatory conditions to meet the needs of your business. Our commitment to providing comprehensive Sharia and ESG compliance guidance ensures that every transaction upholds the highest ethical standards, advancing both sustainability and long-term value.
-            <br />
-            <br />
-            We remain resolutely focused on achieving results. Our unique blend of global insights and in-depth knowledge of diverse legal and economic landscapes positions us to identify optimal financial and regulatory conditions tailored to your business's needs. Moreover, our commitment to providing Sharia compliance and ESG compliance feedback for every transaction ensures that your investments uphold the highest ethical standards while advancing sustainability.
           </p>
         </div>
       </div>
