@@ -129,7 +129,6 @@ function Post() {
         </p>
 
         <Slider {...settings} className='fourth flex mx-auto items-center gap-10 pt-12 pb-10 text-[#000]'>
-            <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/Openal.jpg" alt="" />
             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/scale.jpg" alt="" />
             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/anth.jpg" alt="" />
             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/groq.jpg" alt="" />
