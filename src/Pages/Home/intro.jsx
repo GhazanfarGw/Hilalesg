@@ -38,6 +38,8 @@ function Description() {
 
         <div className="second max-w-screen-lg pt-5 md:pt-8 text-[#777]">
           <p className="md:text-lg text-sm">
+            Derived from the Arabic word Hilal, meaning "new moon" or "new beginning," Hilal ESG Holdings Ltd symbolizes our commitment to fresh starts and transformative impact in the financial services sector.
+            <br/><br/>
             Hilal ESG Holdings Ltd is diligently pursuing the necessary regulatory licenses to operate across various jurisdictions. Our unwavering commitment to compliance and regulatory standards reflects our dedication to delivering trusted, high-quality financial services to our clients.
             <br/><br/>
             As we finalize our licensing process, we will issue an official press release to share the news. In the meantime, we invite you to stay informed about our progress. Simply enter your email below and click "Subscribe" to receive updates directly to your inbox. Thank you for your continued support.
