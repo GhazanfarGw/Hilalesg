@@ -129,7 +129,7 @@ function Post() {
         </p>
 
         <Slider {...settings} className='fourth flex mx-auto items-center gap-10 pt-12 pb-10 text-[#000]'>
-            <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/scale.jpg" alt="" />
+{/*             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/scale.jpg" alt="" />
             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/anth.jpg" alt="" />
             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/groq.jpg" alt="" />
             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/figue.jpg" alt="" />
@@ -141,6 +141,12 @@ function Post() {
             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/zellar.jpg" alt="" />
             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/mirzy.jpg" alt="" />
             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/rtgs.jpg" alt="" />
+            <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/trustin.jpg" alt="" />
+            <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/Symanto.jpg" alt="" /> */}
+
+            <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/rtgs.jpg" alt="" />
+            <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/ltaf.jpg" alt="" />
+            <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/zellar.jpg" alt="" />
             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/trustin.jpg" alt="" />
             <img className='hover:scale-105 duration-300 border py-6 px-3' src="../logos/Symanto.jpg" alt="" />
         </Slider>
